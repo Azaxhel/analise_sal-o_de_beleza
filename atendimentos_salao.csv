@@ -1,0 +1,201 @@
+Data,Cliente,Profissional,Serviço,Valor,Forma de Pagamento
+2025-03-20,Antônio Freitas,Carla,Escova,62.48,Dinheiro
+2025-02-09,Daniel Cavalcanti,Lucas,Barba,29.31,Dinheiro
+2025-03-23,Dra. Ana Laura Pereira,Carla,Coloração,123.24,Pix
+2025-01-20,Bryan da Rosa,Carla,Coloração,127.62,Pix
+2025-02-08,Maria Araújo,Lucas,Barba,28.83,Pix
+2025-03-12,Theo Viana,Fernanda,Barba,28.83,Dinheiro
+2025-02-26,Levi Freitas,Fernanda,Escova,67.9,Cartão
+2025-04-05,Vitor Hugo da Cruz,Fernanda,Escova,63.84,Dinheiro
+2025-03-25,Heloísa Freitas,Carla,Coloração,117.65,Pix
+2025-02-01,Vitor Hugo Mendes,Carla,Manicure,37.71,Cartão
+2025-01-26,João Miguel Castro,Fernanda,Coloração,117.68,Cartão
+2025-02-20,Dr. Augusto Ramos,Carla,Manicure,32.67,Cartão
+2025-03-10,João Miguel Cardoso,Fernanda,Barba,31.21,Dinheiro
+2025-03-11,Pedro Lucas Moreira,Fernanda,Escova,50.43,Pix
+2025-03-14,Thales Campos,João,Escova,51.38,Dinheiro
+2025-01-21,Daniela Gonçalves,Lucas,Coloração,117.19,Dinheiro
+2025-01-24,Caio Nascimento,Carla,Manicure,29.94,Cartão
+2025-02-12,Maysa Moreira,Fernanda,Escova,61.57,Dinheiro
+2025-02-01,Dr. Emanuel Fogaça,Fernanda,Escova,55.46,Pix
+2025-03-26,Melissa Cardoso,Fernanda,Manicure,27.94,Dinheiro
+2025-03-17,Bárbara Teixeira,João,Manicure,42.33,Pix
+2025-03-28,Davi Lucca Rezende,Carla,Escova,58.87,Pix
+2025-02-22,Pedro Miguel das Neves,Fernanda,Escova,60.34,Dinheiro
+2025-03-24,Sr. Enzo Azevedo,Carla,Barba,22.88,Cartão
+2025-04-05,Dr. Gabriel Campos,Lucas,Barba,27.28,Pix
+2025-02-06,Raquel Lopes,Fernanda,Escova,60.55,Pix
+2025-02-06,Luna Novaes,João,Corte Masculino,34.25,Dinheiro
+2025-04-12,Laís da Conceição,Fernanda,Corte Feminino,71.88,Cartão
+2025-02-11,Felipe Teixeira,Lucas,Corte Feminino,67.0,Cartão
+2025-02-11,Dra. Lara Nunes,João,Barba,28.54,Cartão
+2025-02-21,Daniel Silva,Lucas,Corte Feminino,66.99,Pix
+2025-03-05,Vitor Gabriel Barros,Fernanda,Corte Masculino,49.26,Cartão
+2025-04-10,Davi Lucas da Cruz,Lucas,Escova,59.93,Pix
+2025-04-03,Lara Campos,Carla,Coloração,114.71,Dinheiro
+2025-02-23,Maria Vitória Rezende,João,Manicure,39.11,Pix
+2025-03-09,Marcos Vinicius Alves,Fernanda,Coloração,113.9,Cartão
+2025-03-24,Srta. Nina Teixeira,Lucas,Barba,31.04,Dinheiro
+2025-03-30,Vitor Mendes,Lucas,Corte Feminino,60.2,Dinheiro
+2025-01-27,Leandro da Cruz,João,Corte Feminino,63.36,Cartão
+2025-03-02,Thiago Ferreira,Fernanda,Corte Masculino,40.98,Cartão
+2025-03-06,Luiz Fernando Cavalcanti,Fernanda,Corte Feminino,73.69,Dinheiro
+2025-04-11,Fernanda Santos,João,Coloração,120.86,Dinheiro
+2025-03-17,Davi Lucas Moura,Lucas,Corte Masculino,39.42,Pix
+2025-04-01,Marcelo Souza,Lucas,Escova,58.49,Dinheiro
+2025-04-16,Noah Martins,Fernanda,Corte Masculino,32.61,Pix
+2025-03-05,Carlos Eduardo Moreira,Lucas,Escova,56.4,Cartão
+2025-04-12,Erick Caldeira,Carla,Escova,57.7,Dinheiro
+2025-02-09,Ana Júlia Cardoso,João,Manicure,40.29,Dinheiro
+2025-03-29,Ana Clara Teixeira,João,Corte Masculino,41.72,Dinheiro
+2025-04-01,Cauê Ribeiro,Fernanda,Manicure,26.18,Dinheiro
+2025-03-11,Francisco Souza,Lucas,Manicure,36.62,Dinheiro
+2025-04-11,Lara da Rosa,João,Barba,28.07,Pix
+2025-03-10,Dra. Catarina Lima,João,Manicure,31.62,Cartão
+2025-02-24,Milena Moura,Carla,Escova,63.06,Pix
+2025-02-28,Lavínia Costa,Carla,Corte Feminino,75.15,Dinheiro
+2025-02-10,Bernardo Mendes,Fernanda,Barba,34.66,Pix
+2025-01-19,Maria Clara Dias,Lucas,Escova,55.8,Pix
+2025-03-15,Alexandre Cardoso,Fernanda,Corte Feminino,68.45,Pix
+2025-03-26,Ana Carolina Dias,Fernanda,Escova,61.66,Cartão
+2025-01-23,Isaac Cardoso,João,Corte Feminino,74.88,Cartão
+2025-03-07,Guilherme Rodrigues,Carla,Corte Masculino,37.6,Pix
+2025-02-06,Ana Ribeiro,Carla,Coloração,119.07,Pix
+2025-02-09,Júlia da Mota,Fernanda,Corte Masculino,34.47,Cartão
+2025-01-26,Rafael Pinto,Carla,Coloração,114.02,Pix
+2025-02-20,Júlia Rezende,João,Corte Feminino,74.06,Pix
+2025-04-10,Srta. Nicole Castro,João,Coloração,126.78,Cartão
+2025-01-22,Sabrina Mendes,Fernanda,Corte Masculino,39.64,Cartão
+2025-04-04,Felipe da Mota,Lucas,Corte Masculino,45.02,Pix
+2025-02-04,Lavínia Cunha,Fernanda,Escova,61.81,Dinheiro
+2025-02-26,Guilherme Rezende,Lucas,Escova,56.77,Cartão
+2025-02-10,Leonardo Vieira,Lucas,Manicure,36.81,Cartão
+2025-01-26,Pietro Viana,Carla,Barba,37.69,Dinheiro
+2025-04-08,Bryan Duarte,Fernanda,Manicure,34.82,Dinheiro
+2025-02-02,Luiza Rocha,Carla,Escova,67.82,Pix
+2025-02-06,Ana Carolina da Cunha,Carla,Manicure,21.9,Dinheiro
+2025-02-22,João Pedro Ferreira,Carla,Corte Feminino,74.11,Dinheiro
+2025-04-16,Esther Pereira,Fernanda,Corte Feminino,70.44,Dinheiro
+2025-03-25,Dra. Mirella Rodrigues,Fernanda,Corte Feminino,68.5,Dinheiro
+2025-02-01,Gustavo da Rosa,Carla,Manicure,35.46,Cartão
+2025-01-22,Sarah Viana,Carla,Escova,50.06,Pix
+2025-01-22,Sra. Ana Carolina Barros,Fernanda,Coloração,118.9,Pix
+2025-03-14,Lívia Souza,João,Coloração,121.79,Dinheiro
+2025-02-01,Luiz Gustavo Cardoso,Fernanda,Corte Masculino,47.39,Cartão
+2025-04-09,Bernardo Campos,João,Escova,57.41,Pix
+2025-03-23,João Costa,Fernanda,Manicure,30.96,Pix
+2025-04-13,Elisa Barbosa,João,Corte Feminino,67.49,Cartão
+2025-03-18,Kaique Silveira,Carla,Corte Feminino,74.58,Pix
+2025-02-16,Emanuel Lopes,Lucas,Corte Masculino,41.64,Pix
+2025-02-09,João Vitor Costela,Lucas,Corte Masculino,37.35,Cartão
+2025-03-23,Fernanda Ramos,Lucas,Coloração,122.57,Dinheiro
+2025-02-16,André Ramos,Lucas,Coloração,120.49,Cartão
+2025-03-18,Ana Luiza Cardoso,Lucas,Corte Feminino,74.84,Pix
+2025-03-10,Luiz Fernando Ferreira,Carla,Corte Feminino,66.49,Dinheiro
+2025-01-29,Sr. Felipe Moura,João,Barba,28.36,Cartão
+2025-02-13,Leonardo Viana,João,Escova,58.04,Cartão
+2025-03-26,Paulo Souza,Fernanda,Corte Feminino,62.68,Dinheiro
+2025-01-17,Maria Clara Jesus,João,Escova,61.48,Pix
+2025-03-22,Daniel Ferreira,Fernanda,Corte Masculino,41.31,Pix
+2025-01-28,Vinicius Vieira,Lucas,Corte Masculino,40.03,Dinheiro
+2025-02-01,Gustavo Henrique da Rocha,João,Coloração,118.83,Pix
+2025-03-27,Sr. Rodrigo Ferreira,Fernanda,Corte Masculino,32.92,Cartão
+2025-03-07,Eloah Barros,Lucas,Manicure,32.9,Pix
+2025-01-25,Lara Freitas,Lucas,Corte Masculino,38.29,Dinheiro
+2025-01-21,Isaac Costela,Carla,Corte Feminino,65.99,Dinheiro
+2025-03-19,Davi Lucca Pires,Carla,Escova,59.19,Pix
+2025-03-11,Sra. Maria Eduarda Alves,Lucas,Corte Masculino,42.02,Dinheiro
+2025-01-27,Ryan da Costa,Fernanda,Escova,69.43,Cartão
+2025-03-10,João Lucas Vieira,Carla,Coloração,120.87,Pix
+2025-01-31,Ana Barbosa,Carla,Escova,61.29,Dinheiro
+2025-02-15,Sr. João Gabriel da Rocha,Lucas,Manicure,34.63,Cartão
+2025-03-24,Raul Cavalcanti,Lucas,Barba,20.41,Pix
+2025-02-20,Júlia da Costa,João,Manicure,34.87,Pix
+2025-04-16,Davi Lucca da Luz,João,Corte Masculino,40.3,Cartão
+2025-04-12,Alice da Luz,João,Coloração,132.32,Dinheiro
+2025-03-29,Dr. Raul Farias,João,Corte Feminino,69.04,Pix
+2025-02-11,Yuri Cavalcanti,Lucas,Barba,31.51,Pix
+2025-02-23,Lucas das Neves,Carla,Corte Feminino,69.83,Cartão
+2025-02-05,Isabel Lima,Lucas,Coloração,114.16,Pix
+2025-04-06,Enzo Gabriel Araújo,Fernanda,Manicure,40.71,Dinheiro
+2025-03-22,João Melo,Fernanda,Corte Feminino,73.76,Pix
+2025-02-13,Vitor Freitas,João,Escova,63.96,Cartão
+2025-02-20,Maitê Nunes,João,Barba,25.45,Pix
+2025-03-23,Helena Araújo,Lucas,Coloração,127.01,Cartão
+2025-01-28,Davi Ferreira,Fernanda,Manicure,27.99,Cartão
+2025-01-20,Noah Pinto,Lucas,Manicure,37.93,Cartão
+2025-02-19,Sra. Larissa Silva,Carla,Coloração,130.95,Pix
+2025-01-28,Maria Julia da Mota,João,Barba,25.05,Pix
+2025-02-10,Thales Pinto,Carla,Coloração,117.17,Cartão
+2025-01-17,Maria Alice da Paz,Carla,Escova,60.5,Dinheiro
+2025-02-21,Ana Clara Melo,Fernanda,Corte Masculino,37.48,Cartão
+2025-03-18,Sr. Thiago Jesus,Carla,Corte Feminino,62.25,Cartão
+2025-03-07,Raul Oliveira,Lucas,Corte Feminino,70.34,Dinheiro
+2025-02-17,Pietra Gonçalves,Fernanda,Corte Feminino,64.69,Pix
+2025-03-11,Diogo Peixoto,Fernanda,Corte Feminino,72.37,Pix
+2025-03-22,Nicole da Luz,João,Corte Masculino,35.4,Cartão
+2025-03-17,Fernanda Nunes,João,Escova,67.75,Cartão
+2025-03-11,Heitor Gomes,João,Coloração,116.08,Dinheiro
+2025-02-06,Valentina Martins,Carla,Barba,28.39,Dinheiro
+2025-03-03,Laura da Rosa,João,Escova,64.07,Dinheiro
+2025-03-07,Vitória da Cunha,Fernanda,Escova,53.85,Dinheiro
+2025-03-21,Gustavo Henrique Silva,Lucas,Coloração,121.14,Dinheiro
+2025-03-22,Mariane Melo,Carla,Corte Feminino,76.54,Cartão
+2025-01-26,Renan Lima,Carla,Corte Feminino,61.96,Pix
+2025-02-07,Danilo Araújo,Fernanda,Escova,60.92,Dinheiro
+2025-01-21,Lucas Cardoso,Fernanda,Escova,61.3,Dinheiro
+2025-03-02,Marina da Mota,Lucas,Coloração,123.91,Cartão
+2025-03-27,Sra. Luna Nunes,Fernanda,Coloração,113.82,Dinheiro
+2025-02-09,Pietro Almeida,Lucas,Manicure,28.4,Pix
+2025-04-13,Yago Pereira,Lucas,Corte Feminino,72.61,Pix
+2025-02-07,Samuel Silveira,João,Corte Feminino,71.48,Pix
+2025-03-03,Matheus Farias,Carla,Escova,61.25,Dinheiro
+2025-04-16,Lorenzo Cunha,Lucas,Escova,61.73,Dinheiro
+2025-04-04,Natália Souza,Lucas,Escova,56.6,Cartão
+2025-03-12,Gabrielly Pires,Fernanda,Corte Masculino,41.16,Cartão
+2025-03-17,Dra. Lara Vieira,Lucas,Corte Masculino,41.47,Pix
+2025-03-01,Vinicius Ribeiro,Carla,Barba,26.43,Dinheiro
+2025-03-01,Vitor Gabriel Farias,João,Coloração,129.33,Pix
+2025-04-08,Emilly Silveira,Carla,Coloração,122.37,Pix
+2025-03-05,Eduarda Freitas,Carla,Corte Feminino,64.04,Dinheiro
+2025-02-28,Theo Gomes,Lucas,Corte Feminino,73.28,Cartão
+2025-02-08,Isaac Lopes,Fernanda,Corte Feminino,65.13,Dinheiro
+2025-04-13,Ana Júlia Cunha,Lucas,Corte Feminino,73.94,Cartão
+2025-01-31,João Pedro da Costa,Carla,Barba,35.79,Cartão
+2025-03-26,Bernardo Peixoto,Lucas,Corte Masculino,35.9,Cartão
+2025-02-25,Dr. Kaique Caldeira,João,Barba,34.82,Dinheiro
+2025-02-06,Joana Aragão,João,Corte Feminino,72.06,Dinheiro
+2025-04-10,Isis Rocha,João,Manicure,39.11,Cartão
+2025-01-17,Dr. Vitor Gabriel Nogueira,Fernanda,Manicure,44.48,Pix
+2025-04-09,Maria Alice Viana,Fernanda,Corte Masculino,38.77,Dinheiro
+2025-04-04,Clarice Rodrigues,Fernanda,Escova,56.23,Pix
+2025-02-07,Leandro Rodrigues,Fernanda,Corte Feminino,65.55,Cartão
+2025-01-19,Heloísa Nunes,Carla,Barba,25.92,Cartão
+2025-03-28,Lucas Gabriel Costela,João,Corte Masculino,39.61,Pix
+2025-03-18,Alice Novaes,João,Coloração,121.71,Pix
+2025-03-15,Mirella Araújo,Lucas,Corte Masculino,41.38,Cartão
+2025-01-25,Lara Cunha,João,Corte Feminino,74.14,Pix
+2025-04-11,Carolina Barros,Lucas,Corte Masculino,40.07,Cartão
+2025-02-11,Giovanna da Rosa,João,Corte Feminino,77.27,Dinheiro
+2025-03-02,Dr. Vitor Hugo Nascimento,Fernanda,Manicure,33.68,Pix
+2025-02-13,Eloah Cardoso,Carla,Corte Feminino,83.6,Cartão
+2025-03-03,Vinicius Viana,Lucas,Barba,33.13,Dinheiro
+2025-01-22,Sr. Pietro Campos,Lucas,Manicure,30.71,Pix
+2025-04-02,Amanda Araújo,João,Manicure,29.65,Pix
+2025-02-10,Anthony da Costa,João,Manicure,37.41,Cartão
+2025-02-09,Lucas Correia,Fernanda,Corte Masculino,38.88,Pix
+2025-03-12,Lucas Gabriel Fernandes,Carla,Corte Feminino,73.57,Dinheiro
+2025-04-01,Sr. Otávio Correia,Carla,Corte Masculino,42.37,Dinheiro
+2025-04-02,Henrique Cavalcanti,Carla,Coloração,119.64,Pix
+2025-03-14,Henrique Nascimento,João,Corte Feminino,65.77,Dinheiro
+2025-02-24,Srta. Ana Julia Farias,Fernanda,Corte Feminino,62.43,Pix
+2025-01-26,Sra. Nina Costa,Carla,Corte Masculino,37.77,Dinheiro
+2025-04-04,Valentina Barbosa,João,Manicure,39.28,Dinheiro
+2025-02-19,Lara Moura,João,Escova,61.07,Cartão
+2025-01-23,Melissa Mendes,João,Coloração,113.77,Dinheiro
+2025-01-18,Luiza Cavalcanti,Carla,Manicure,35.87,Cartão
+2025-02-28,Dr. Thales da Costa,Carla,Corte Masculino,41.93,Dinheiro
+2025-02-28,Thomas Silveira,Lucas,Corte Masculino,35.58,Dinheiro
+2025-03-21,Paulo Teixeira,Lucas,Escova,60.77,Cartão
+2025-04-02,Letícia Pinto,Fernanda,Barba,30.29,Dinheiro
+2025-04-07,Dra. Emanuelly Martins,Carla,Escova,54.29,Pix
