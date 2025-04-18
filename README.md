@@ -50,7 +50,6 @@ Demonstrar como aplicar técnicas de análise de dados para responder perguntas 
 - Adição de dados de agendamento (hora, antecedência, faltas)
 - Coleta de satisfação de clientes
 - Aplicação de previsão de demanda (modelos de séries temporais)
-- Criação de dashboards interativos com Streamlit ou Power BI
 
 ---
 
